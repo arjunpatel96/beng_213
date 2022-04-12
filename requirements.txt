@@ -1,0 +1,6 @@
+cobra
+numpy
+escher
+matplotlib
+scipy
+jupyterlab==2.2.10
