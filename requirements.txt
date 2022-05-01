@@ -5,5 +5,5 @@ matplotlib
 scipy
 jupyterlab==2.2.10
 Bio
-glob
+glob2
 pandas
