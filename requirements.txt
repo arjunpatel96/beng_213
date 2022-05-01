@@ -7,3 +7,4 @@ jupyterlab==2.2.10
 Bio
 glob2
 pandas
+openpyxl
