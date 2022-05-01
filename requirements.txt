@@ -8,3 +8,4 @@ Bio
 glob2
 pandas
 openpyxl
+bioconda blast
